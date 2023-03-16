@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - main function
+ * main -Entry point
  *
- * Return: o on success
+ * Description: using sizeof to print the size of various types.
+ *
+ * Return: Always 0 (Success)
 */
 
 int main(void)
